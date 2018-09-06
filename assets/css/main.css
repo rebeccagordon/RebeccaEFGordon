@@ -3401,7 +3401,7 @@ input, select, textarea {
 					}
 
 						#header > nav > ul > li a:hover {
-							color: rgba(255, 255, 255, 0.55);
+							color: rgba(255, 255, 255, 0.45);
 						}
 
 						#header > nav > ul > li a.active {
