@@ -149,7 +149,7 @@ Brown University Graduate School</p>   <p> 2017 May Merit-based Behavioral and S
 							<p>I am looking to start a doctoral program for Developmental/Cognitive Science in 2020. </p>
 							<div class="split style1">
 								<section>
-									<form method="post" action="#">
+									<form method="post" action="index.php">
 										<div class="fields">
 											<div class="field half">
 												<label for="name">Name</label>
