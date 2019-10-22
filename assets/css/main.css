@@ -3463,9 +3463,9 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#sidebar + #wrapper {
-				padding-top: 0;
+				margin-left: 0;
+				padding-top: 3.5em;
 			}
-
 		}
 
 	#header + #wrapper > .wrapper > .inner {
@@ -3845,7 +3845,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 1020px) {
 
 			#sidebar {
 				display: none;
