@@ -3455,7 +3455,7 @@ input, select, textarea {
 
 			#sidebar + #wrapper {
 				margin-left: 0;
-				padding-top: 3.5em;
+				padding-top: 5em;
 			}
 
 		}
@@ -3786,9 +3786,9 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#sidebar {
-				height: 3.5em;
+				height: 4em;
 				left: 0;
-				line-height: 3.5em;
+				line-height: 4.5em;
 				overflow: hidden;
 				padding: 0;
 				text-align: center;
