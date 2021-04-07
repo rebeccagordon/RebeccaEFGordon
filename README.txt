@@ -1,1 +1,1 @@
-Personal Website for Rebecca Gordon
+Rebecca Gordon 
